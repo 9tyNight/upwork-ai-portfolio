@@ -4,4 +4,4 @@ A focused portfolio site for Upwork clients looking for AI automation, OpenAI ch
 
 ## Live Demo
 
-The GitHub Pages demo is published from the `gh-pages` branch after deployment.
+https://9tynight.github.io/upwork-ai-portfolio/

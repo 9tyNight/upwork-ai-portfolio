@@ -5,10 +5,8 @@ import {
   Bot,
   BrainCircuit,
   CheckCircle2,
-  DatabaseZap,
   Gauge,
   Github,
-  Mail,
   MessageSquareText,
   Rocket,
   Workflow,
@@ -167,8 +165,8 @@ function App() {
           <a className="primaryBtn" href="https://www.upwork.com/freelancers/ziadanka" target="_blank" rel="noreferrer">
             Start on Upwork <Rocket size={18} />
           </a>
-          <a className="ghostBtn" href="mailto:zia.danka@example.com">
-            <Mail size={18} /> Email
+          <a className="ghostBtn" href="https://github.com/9tyNight" target="_blank" rel="noreferrer">
+            <Github size={18} /> GitHub
           </a>
         </div>
       </section>
